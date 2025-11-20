@@ -20,7 +20,7 @@ export const About: React.FC = () => {
                 <strong>I started UNIQID with a different perspective.</strong> With a background in design, I realized the best way to honor a vision is to master the tools that build it. I traded the studio desk for the site office because I believe true craftsmanship happens when the builder understands the intent.
               </p>
               <p>
-                We don't offer design services. Instead, we offer the perfect partnership for architects and clients who care about the details. We speak your language, we respect your materials, and we build with understanding.
+                We offer the perfect partnership for architects, designer and clients who care about the details. We speak your language, we respect your materials, and we build with understanding.
               </p>
               
               <div className="pt-8">
