@@ -19,7 +19,7 @@ export const Contact: React.FC = () => {
                 <input 
                   type="text" 
                   className="w-full bg-transparent border-b border-stone-300 py-3 focus:outline-none focus:border-stone-900 transition-colors rounded-none"
-                  placeholder="Jane Doe"
+                  placeholder="Noah Park"
                 />
               </div>
               <div className="space-y-2">
@@ -27,7 +27,7 @@ export const Contact: React.FC = () => {
                 <input 
                   type="email" 
                   className="w-full bg-transparent border-b border-stone-300 py-3 focus:outline-none focus:border-stone-900 transition-colors rounded-none"
-                  placeholder="jane@example.com"
+                  placeholder="admin@uniqid.ca"
                 />
               </div>
             </div>
