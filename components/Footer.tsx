@@ -20,9 +20,9 @@ export const Footer: React.FC = () => {
           <div className="space-y-4">
             <h4 className="text-stone-50 text-sm uppercase tracking-widest">Contact</h4>
             <div className="text-sm space-y-2">
-              <p>info@uniqid-noah.com</p>
-              <p>+1 (604) 555-0199</p>
-              <p>Vancouver, British Columbia</p>
+              <p>admin@uniqid.ca</p>
+              <p>+1 (778) 980-5658</p>
+              <p>#2270-853seaborne ave,Port coquitlam, British Columbia, V3B 0N9</p>
             </div>
           </div>
 
@@ -31,7 +31,6 @@ export const Footer: React.FC = () => {
              <h4 className="text-stone-50 text-sm uppercase tracking-widest">Follow</h4>
              <div className="flex space-x-4 text-sm">
                 <a href="#" className="hover:text-stone-50 transition-colors">Instagram</a>
-                <a href="#" className="hover:text-stone-50 transition-colors">LinkedIn</a>
              </div>
           </div>
         </div>
