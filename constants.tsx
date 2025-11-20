@@ -86,8 +86,8 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
   },
   {
     id: 2,
-    title: "Aesop Style Clinic",
-    category: "Medical",
+    title: "Little Beetle",
+    category: "Restaurant",
     imageUrl: "https://picsum.photos/id/376/800/600",
     additionalImages: [
       "https://picsum.photos/id/399/800/600",
@@ -97,8 +97,8 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
   },
   {
     id: 3,
-    title: "High-Rise Penthouse",
-    category: "Residential",
+    title: "Cafe Laforet Royaloak",
+    category: "Factory / Head office / Retail",
     imageUrl: "https://picsum.photos/id/24/800/600",
     additionalImages: [
       "https://picsum.photos/id/28/800/600",
@@ -108,8 +108,8 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
   },
   {
     id: 4,
-    title: "Heritage Restoration",
-    category: "Commercial",
+    title: "Sushi Hil",
+    category: "Restaurant",
     imageUrl: "https://picsum.photos/id/203/800/600",
     additionalImages: [
       "https://picsum.photos/id/206/800/600",
