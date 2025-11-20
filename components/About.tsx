@@ -35,7 +35,7 @@ export const About: React.FC = () => {
             <div className="relative aspect-[3/4] bg-stone-200 overflow-hidden rounded-sm">
               <img 
                 src="https://images.unsplash.com/photo-1507537362848-9c7e70b74ce5?q=80&w=1888&auto=format&fit=crop" 
-                alt="Noah P, Founder of UNIQID, looking at blueprints on a construction site" 
+                alt="Noah P, Founder of UNIQID, started with a different perspective" 
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-700 grayscale hover:grayscale-0"
               />
               <div className="absolute bottom-0 left-0 bg-stone-900/80 px-6 py-4">
