@@ -82,7 +82,8 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       "https://picsum.photos/id/429/800/600",
       "https://picsum.photos/id/305/800/600"
     ],
-    description: "A warm, light-filled space featuring custom oak millwork and exposed roughly natural stone elements. Precision joinery was key to achieving the seamless transition between service and seating areas."
+    description: "A warm, light-filled space featuring custom oak millwork and exposed roughly natural stone elements. Precision joinery was key to achieving the seamless transition between service and seating areas.",
+    id: "https://www.instagram.com/uniqidgeneralcontractors/"
   },
   {
     id: 2,
