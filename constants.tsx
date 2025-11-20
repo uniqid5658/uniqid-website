@@ -74,8 +74,8 @@ export const PROCESS_STEPS: ProcessStep[] = [
 export const PORTFOLIO_ITEMS: PortfolioItem[] = [
   {
     id: 1,
-    title: "Nordic Cafe & Bakery",
-    category: "Commercial",
+    title: "Cafe Laforet Austin",
+    category: "Bakery&Cafe / Restaurant",
     imageUrl: "https://picsum.photos/id/435/800/600",
     additionalImages: [
       "https://picsum.photos/id/425/800/600",
