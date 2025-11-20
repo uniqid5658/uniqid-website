@@ -41,10 +41,8 @@ export const Contact: React.FC = () => {
               ></textarea>
             </div>
 
-              <a
-    href="mailto:info@uniqid.ca?subject=Project%20Inquiry"
-    className="inline-block bg-stone-900 text-stone-50 px-10 py-4 uppercase tracking-widest text-xs hover:bg-stone-800 transition-colors w-full md:w-auto text-center"
-  >
+            <div className="pt-6 text-center">
+              <button className="bg-stone-900 text-stone-50 px-10 py-4 uppercase tracking-widest text-xs hover:bg-stone-800 transition-colors w-full md:w-auto">
                 Send Inquiry
               </button>
             </div>
