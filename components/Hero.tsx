@@ -32,7 +32,7 @@ export const Hero: React.FC = () => {
             to="/#portfolio" 
             className="inline-block border border-stone-50 text-stone-50 px-8 py-4 text-sm uppercase tracking-widest hover:bg-stone-50 hover:text-stone-900 transition-all duration-300"
           >
-            View Projects
+            View Portfolio
           </Link>
         </div>
       </div>
