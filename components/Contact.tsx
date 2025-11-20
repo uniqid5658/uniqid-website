@@ -20,8 +20,16 @@ export const Contact: React.FC = () => {
     const { name, email, details } = formData;
     
     const subject = encodeURIComponent(`Project Inquiry from ${name}`);
-    const body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\nProject Details:\n${details}`);
     
+    // Constructing the body to be readable in the email client
+    const body = encodeURIComponent(
+      `Name: ${name}\n` +
+      `Email: ${email}\n\n` +
+      `--------------------------------\n` +
+      `Project Details:\n\n${details}`
+    );
+    
+    // Trigger the mail client
     window.location.href = `mailto:admin@uniqid.ca?subject=${subject}&body=${body}`;
   };
 
