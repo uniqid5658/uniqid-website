@@ -8,7 +8,7 @@ export const Services: React.FC = () => {
         <div className="mb-16 max-w-2xl">
           <h2 className="text-3xl md:text-4xl font-serif text-stone-900 mb-4">Our Expertise</h2>
           <p className="text-stone-600">
-            We focus purely on execution. Our services are designed to support the architect's vision and the client's investment.
+            We focus purely on execution. Our services are designed to support the client's vision and investment.
           </p>
         </div>
 
