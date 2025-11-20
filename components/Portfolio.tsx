@@ -169,7 +169,13 @@ export const Portfolio: React.FC = () => {
                 {selectedProject.description}
               </p>
               
-
+              <div className="mt-auto pt-4">
+                <a 
+                  href={`/projects/${selectedProject.id}`}
+                  className="inline-block border border-stone-900 px-8 py-3 text-xs uppercase tracking-widest font-medium text-stone-900 hover:bg-stone-900 hover:text-stone-50 transition-all duration-300"
+                >
+                  View Full Case Study
+                </a>
               </div>
             </div>
           </div>
