@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { X, ChevronLeft, ChevronRight } from 'lucide-react';
+import { Link } from 'react-router-dom';
 import { PORTFOLIO_ITEMS } from '../constants';
 import { PortfolioItem } from '../types';
 
@@ -45,9 +46,9 @@ export const Portfolio: React.FC = () => {
             <h2 className="text-3xl md:text-4xl font-serif text-stone-900 mb-2">Selected Works</h2>
             <p className="text-stone-500">A collection of executed spaces.</p>
           </div>
-          <a href="#" className="hidden md:block text-sm font-medium uppercase tracking-widest border-b border-stone-900 pb-1 hover:text-stone-600 hover:border-stone-600 transition-colors mt-6 md:mt-0">
+          <Link to="/#portfolio" className="hidden md:block text-sm font-medium uppercase tracking-widest border-b border-stone-900 pb-1 hover:text-stone-600 hover:border-stone-600 transition-colors mt-6 md:mt-0">
             View All Projects
-          </a>
+          </Link>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -78,9 +79,9 @@ export const Portfolio: React.FC = () => {
         </div>
         
         <div className="mt-12 text-center md:hidden">
-          <a href="#" className="text-sm font-medium uppercase tracking-widest border-b border-stone-900 pb-1">
+          <Link to="/#portfolio" className="text-sm font-medium uppercase tracking-widest border-b border-stone-900 pb-1">
             View All Projects
-          </a>
+          </Link>
         </div>
       </div>
 
@@ -170,12 +171,12 @@ export const Portfolio: React.FC = () => {
               </p>
               
               <div className="mt-auto pt-4">
-                <a 
-                  href={`/projects/${selectedProject.id}`}
+                <Link 
+                  to={`/projects/${selectedProject.id}`}
                   className="inline-block border border-stone-900 px-8 py-3 text-xs uppercase tracking-widest font-medium text-stone-900 hover:bg-stone-900 hover:text-stone-50 transition-all duration-300"
                 >
                   View Full Case Study
-                </a>
+                </Link>
               </div>
             </div>
           </div>
