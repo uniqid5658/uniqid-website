@@ -74,20 +74,22 @@ export const PROCESS_STEPS: ProcessStep[] = [
 export const PORTFOLIO_ITEMS: PortfolioItem[] = [
   {
     id: 1,
-    title: "Nordic Cafe & Bakery",
-    category: "Commercial",
+    title: "Laforet Austin",
+    category: "Bakery & Cafe / Restaurant",
     imageUrl: "https://picsum.photos/id/435/800/600",
     additionalImages: [
       "https://picsum.photos/id/425/800/600",
       "https://picsum.photos/id/429/800/600",
       "https://picsum.photos/id/305/800/600"
     ],
-    description: "A warm, light-filled space featuring custom oak millwork and exposed concrete elements. Precision joinery was key to achieving the seamless transition between service and seating areas."
+    description: "A warm, light-filled space featuring custom oak millwork and exposed roughly natural stone elements. Precision joinery was key to achieving the seamless transition between service and seating areas.",
+    id: "https://www.instagram.com/uniqidgeneralcontractors/"
+    description: "A warm, light-filled space featuring custom oak millwork and exposed roughly natural stone elements. Precision joinery was key to achieving the seamless transition between service and seating areas."
   },
   {
     id: 2,
-    title: "Aesop Style Clinic",
-    category: "Medical",
+    title: "Little Beetle",
+    category: "Brunch restaurant",
     imageUrl: "https://picsum.photos/id/376/800/600",
     additionalImages: [
       "https://picsum.photos/id/399/800/600",
@@ -97,8 +99,8 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
   },
   {
     id: 3,
-    title: "High-Rise Penthouse",
-    category: "Residential",
+    title: "Laforet Royal oak",
+    category: "Factory / Head Office / Retail",
     imageUrl: "https://picsum.photos/id/24/800/600",
     additionalImages: [
       "https://picsum.photos/id/28/800/600",
@@ -108,8 +110,8 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
   },
   {
     id: 4,
-    title: "Heritage Restoration",
-    category: "Commercial",
+    title: "Sushi Hil",
+    category: "Restaurant",
     imageUrl: "https://picsum.photos/id/203/800/600",
     additionalImages: [
       "https://picsum.photos/id/206/800/600",
@@ -119,8 +121,8 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
   },
   {
     id: 5,
-    title: "Minimalist Studio",
-    category: "Office",
+    title: "Oretachi Curry Main st",
+    category: "Restaurant",
     imageUrl: "https://picsum.photos/id/1/800/600",
     additionalImages: [
       "https://picsum.photos/id/4/800/600",
@@ -130,8 +132,8 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
   },
   {
     id: 6,
-    title: "Omakase Counter",
-    category: "Hospitality",
+    title: "Sushi in Wellington",
+    category: "Restaurant",
     imageUrl: "https://picsum.photos/id/449/800/600",
     additionalImages: [
       "https://picsum.photos/id/447/800/600",
@@ -139,4 +141,158 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     ],
     description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
   },
+  {
+    id: 7,
+    title: "Osaka Kitchen",
+    category: "Restaurant",
+    imageUrl: "https://picsum.photos/id/449/800/600",
+    additionalImages: [
+      "https://picsum.photos/id/447/800/600",
+      "https://picsum.photos/id/439/800/600"
+    ],
+    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+  },
+  {
+    id: 8,
+    title: "Cedarwood Theraphy",
+    category: "Clinic",
+    imageUrl: "https://picsum.photos/id/449/800/600",
+    additionalImages: [
+      "https://picsum.photos/id/447/800/600",
+      "https://picsum.photos/id/439/800/600"
+    ],
+    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+  },  
+  {
+    id: 9,
+    title: "BN Clinic",
+    category: "Clinic",
+    imageUrl: "https://picsum.photos/id/449/800/600",
+    additionalImages: [
+      "https://picsum.photos/id/447/800/600",
+      "https://picsum.photos/id/439/800/600"
+    ],
+    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+  },
+  {
+    id: 10,
+    title: "JOAYO Clinic",
+    category: "Clinic",
+    imageUrl: "https://picsum.photos/id/449/800/600",
+    additionalImages: [
+      "https://picsum.photos/id/447/800/600",
+      "https://picsum.photos/id/439/800/600"
+    ],
+    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+  },   
+  {
+    id: 11,
+    title: "Wonder & Grow Childcare",
+    category: "Daycare facility",
+    imageUrl: "https://picsum.photos/id/449/800/600",
+    additionalImages: [
+      "https://picsum.photos/id/447/800/600",
+      "https://picsum.photos/id/439/800/600"
+    ],
+    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+  },   
+  {
+    id: 12,
+    title: "Kids Kingdom learning center",
+    category: "Daycare facility",
+    imageUrl: "https://picsum.photos/id/449/800/600",
+    additionalImages: [
+      "https://picsum.photos/id/447/800/600",
+      "https://picsum.photos/id/439/800/600"
+    ],
+    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+  },  
+  {
+    id: 13,
+    title: "Pho Anh Vu",
+    category: "Restaurant",
+    imageUrl: "https://picsum.photos/id/449/800/600",
+    additionalImages: [
+      "https://picsum.photos/id/447/800/600",
+      "https://picsum.photos/id/439/800/600"
+    ],
+    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+  },    
+  {
+    id: 14,
+    title: "The Seoulful",
+    category: "Bakery & Cafe",
+    imageUrl: "https://picsum.photos/id/449/800/600",
+    additionalImages: [
+      "https://picsum.photos/id/447/800/600",
+      "https://picsum.photos/id/439/800/600"
+    ],
+    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+  },  
+  {
+    id: 15,
+    title: "BBQ Chicken Metrotown",
+    category: "Restaurant",
+    imageUrl: "https://picsum.photos/id/449/800/600",
+    additionalImages: [
+      "https://picsum.photos/id/447/800/600",
+      "https://picsum.photos/id/439/800/600"
+    ],
+    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+  },
+  {
+    id: 16,
+    title: "TonTon sushi",
+    category: "Restaurant",
+    imageUrl: "https://picsum.photos/id/449/800/600",
+    additionalImages: [
+      "https://picsum.photos/id/447/800/600",
+      "https://picsum.photos/id/439/800/600"
+    ],
+    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+  },  
+  {
+    id: 17,
+    title: "M Prive Salon",
+    category: "Hair & Nail Salon",
+    imageUrl: "https://picsum.photos/id/449/800/600",
+    additionalImages: [
+      "https://picsum.photos/id/447/800/600",
+      "https://picsum.photos/id/439/800/600"
+    ],
+    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+  },
+  {
+    id: 18,
+    title: "MK's House",
+    category: "Residential",
+    imageUrl: "https://picsum.photos/id/449/800/600",
+    additionalImages: [
+      "https://picsum.photos/id/447/800/600",
+      "https://picsum.photos/id/439/800/600"
+    ],
+    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+  },
+  {
+    id: 19,
+    title: "Alma House",
+    category: "Residential",
+    imageUrl: "https://picsum.photos/id/449/800/600",
+    additionalImages: [
+      "https://picsum.photos/id/447/800/600",
+      "https://picsum.photos/id/439/800/600"
+    ],
+    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+  },
+  {
+    id: 20,
+    title: "Westvan House",
+    category: "Residential",
+    imageUrl: "https://picsum.photos/id/449/800/600",
+    additionalImages: [
+      "https://picsum.photos/id/447/800/600",
+      "https://picsum.photos/id/439/800/600"
+    ],
+    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+  },  
 ];
