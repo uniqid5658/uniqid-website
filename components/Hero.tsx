@@ -1,5 +1,6 @@
 import React from 'react';
 import { ArrowDown } from 'lucide-react';
+import { Link } from 'react-router-dom';
 
 export const Hero: React.FC = () => {
   return (
@@ -27,12 +28,12 @@ export const Hero: React.FC = () => {
             UNIQID bridges the gap between design intent and physical reality. 
             Led by a design-trained founder, we build with a deeper level of care for the details that matter.
           </p>
-          <a 
-            href="#portfolio" 
+          <Link 
+            to="/#portfolio" 
             className="inline-block border border-stone-50 text-stone-50 px-8 py-4 text-sm uppercase tracking-widest hover:bg-stone-50 hover:text-stone-900 transition-all duration-300"
           >
             View Projects
-          </a>
+          </Link>
         </div>
       </div>
 
