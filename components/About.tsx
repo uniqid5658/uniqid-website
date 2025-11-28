@@ -34,7 +34,7 @@ export const About: React.FC = () => {
           <div className="w-full md:w-1/2 order-1 md:order-2">
             <div className="relative aspect-[3/4] bg-stone-200 overflow-hidden rounded-sm">
               <img 
-                src="https://github.com/uniqid5658/uniqid-website/blob/5cbef8ffd998a7ad8ee79345ab2adf61b08dbab9/components/founder.jpg" 
+                src="components/founder.jpg" 
                 alt="Noah P, Founder of UNIQID, started with a different perspective" 
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-700 grayscale hover:grayscale-0"
               />
