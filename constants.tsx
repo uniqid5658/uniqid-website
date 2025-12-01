@@ -284,6 +284,8 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mprive/9.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mprive/10.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mprive/11.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mprive/12.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mprive/13.jpg",
     ],
     description: "A space defined by calm luxury and a gentle, flowing rhythm—an experience uniquely M Prive."
   },
