@@ -308,7 +308,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/12.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/13.jpg"
     ],
-    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+    description: "A home where the homeowner’s unique sensibility, memories, and personal rhythm are carefully woven into every tone and texture—creating a space that feels deeply intimate, lived-in, and unmistakably theirs."
   },
   {
     id: 13,
