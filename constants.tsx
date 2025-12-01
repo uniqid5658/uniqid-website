@@ -216,7 +216,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/oretachicurry/19.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/oretachicurry/20.jpg"
     ],
-    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+    description: "We shaped a calm and understated spatial language that reflects the brand’s honest flavor, while faithfully recreating the authentic character of a classic Japanese eatery."
   },
   {
     id: 8,
