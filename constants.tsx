@@ -263,7 +263,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 12,
     title: "MK's House",
     category: "Residential",
-    imageUrl: "https://picsum.photos/id/449/800/600",
+    imageUrl: "https://picsum.photos/id/447/800/600",
     additionalImages: [
       "https://picsum.photos/id/447/800/600",
       "https://picsum.photos/id/447/800/600"
