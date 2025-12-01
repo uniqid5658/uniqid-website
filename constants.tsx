@@ -141,6 +141,11 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushihil/6.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushihil/7.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushihil/8.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushihil/9.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushihil/10.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushihil/11.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushihil/12.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushihil/13.jpg",
     ],
     description: "A space that supports craftsmanship—unobtrusive, controlled, and beautifully restrained."
   },
@@ -148,10 +153,17 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 5,
     title: "Cafe Laforet Royaloak",
     category: "Factory / Head office / Retail",
-    imageUrl: "https://picsum.photos/id/1/800/600",
+    imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforetroyaloak/1.jpg",
     additionalImages: [
-      "https://picsum.photos/id/4/800/600",
-      "https://picsum.photos/id/180/800/600"
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforetroyaloak/2.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforetroyaloak/3.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforetroyaloak/4.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforetroyaloak/5.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforetroyaloak/6.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforetroyaloak/7.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforetroyaloak/8.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforetroyaloak/9.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforetroyaloak/10.jpg"
     ],
     description: "An open-concept workspace designed for clarity. Features polished concrete floors, glass partitions, and integrated smart-lighting systems."
   },
