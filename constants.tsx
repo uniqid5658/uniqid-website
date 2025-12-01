@@ -211,10 +211,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/oretachicurry/14.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/oretachicurry/15.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/oretachicurry/16.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/oretachicurry/17.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/oretachicurry/18.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/oretachicurry/19.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/oretachicurry/20.jpg"
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/oretachicurry/17.jpg"
     ],
     description: "We shaped a calm and understated spatial language that reflects the brand’s honest flavor, while faithfully recreating the authentic character of a classic Japanese eatery."
   },
