@@ -76,7 +76,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 1,
     title: "Cafe Laforet Austin",
     category: "Bakery&Cafe / Restaurant",
-    imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website//main/image/laforetaustin/KakaoTalk_20251201_015435098_04.jpg",
+    imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/KakaoTalk_20251201_015435098_04.jpg",
     additionalImages: [
       "https://picsum.photos/id/425/800/600",
       "https://picsum.photos/id/429/800/600",
