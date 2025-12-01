@@ -165,18 +165,30 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforetroyaloak/9.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforetroyaloak/10.jpg"
     ],
-    description: "An open-concept workspace designed for clarity. Features polished concrete floors, glass partitions, and integrated smart-lighting systems."
+    description: "We designed Laforet’s main hub—where the aroma of fresh baking begins and where distribution, production, headquarters, and retail flow together into one refined, unified identity."
   },
   {
     id: 6,
     title: "Sushi in Wellington",
     category: "Restaurant",
-    imageUrl: "https://picsum.photos/id/449/800/600",
+    imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushiinwellington/1.jpg",
     additionalImages: [
-      "https://picsum.photos/id/447/800/600",
-      "https://picsum.photos/id/439/800/600"
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushiinwellington/2.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushiinwellington/3.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushiinwellington/4.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushiinwellington/5.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushiinwellington/6.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushiinwellington/7.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushiinwellington/8.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushiinwellington/9.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushiinwellington/10.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushiinwellington/11.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushiinwellington/12.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushiinwellington/13.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushiinwellington/14.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushiinwellington/15.jpg",
     ],
-    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+    description: "We designed the space so that quiet refinement and clean flow reveal the true essence of sushi."
   },
   {
     id: 7,
