@@ -234,16 +234,26 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     ],
     description: "We expressed the rich depth of Osaka cuisine through texture, material, and light."
   },
-  {
+   {
     id: 9,
-    title: "Wonder & Grow Child care",
-    category: "Daycare Facility",
-    imageUrl: "https://picsum.photos/id/447/800/600",
+    title: "BBQ Chicken Metrotown",
+    category: "Restaurant",
+    imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/1.jpg",
     additionalImages: [
-      "https://picsum.photos/id/447/800/600",
-      "https://picsum.photos/id/447/800/600"
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/2.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/3.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/4.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/5.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/6.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/7.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/8.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/9.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/10.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/11.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/12.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/13.jpg",
     ],
-    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+    description: "We realized BBQ’s first Smart Branch by refining both functional efficiency and the brand’s distinctive character into a clear, contemporary spatial expression."
   },
   {
     id: 10,
@@ -330,8 +340,8 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
   },
   {
     id: 17,
-    title: "BBQ Chicken Metrotown",
-    category: "Restaurant",
+    title: "Wonder & Grow Child care",
+    category: "Daycare Facility",
     imageUrl: "https://picsum.photos/id/447/800/600",
     additionalImages: [
       "https://picsum.photos/id/447/800/600",
@@ -359,7 +369,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       "https://picsum.photos/id/447/800/600",
       "https://picsum.photos/id/447/800/600"
     ],
-    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+    description: "A space defined by calm luxury and a gentle, flowing rhythm—an experience uniquely M Prive."
   },
   {
     id: 20,
