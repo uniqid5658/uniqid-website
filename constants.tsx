@@ -249,12 +249,18 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 10,
     title: "Pho Anh Vu",
     category: "Restaurant",
-    imageUrl: "https://picsum.photos/id/447/800/600",
+    imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/phoanhvu/1.jpg",
     additionalImages: [
-      "https://picsum.photos/id/447/800/600",
-      "https://picsum.photos/id/447/800/600"
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/phoanhvu/2.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/phoanhvu/3.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/phoanhvu/4.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/phoanhvu/5.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/phoanhvu/6.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/phoanhvu/7.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/phoanhvu/8.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/phoanhvu/9.jpg",
     ],
-    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+    description: "A celebrated pho brand from Toronto, reinterpreted through a clean and contemporary spatial language for its debut Vancouver flagship."
   },
   {
     id: 11,
