@@ -205,10 +205,10 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 8,
     title: "Osaka Kitchen",
     category: "Restaurant",
-    imageUrl: "https://picsum.photos/id/449/800/600",
+    imageUrl: "https://picsum.photos/id/447/800/600",
     additionalImages: [
       "https://picsum.photos/id/447/800/600",
-      "https://picsum.photos/id/439/800/600"
+      "https://picsum.photos/id/447/800/600"
     ],
     description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
   },
@@ -216,10 +216,10 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 9,
     title: "Wonder & Grow Child care",
     category: "Daycare Facility",
-    imageUrl: "https://picsum.photos/id/449/800/600",
+    imageUrl: "https://picsum.photos/id/447/800/600",
     additionalImages: [
       "https://picsum.photos/id/447/800/600",
-      "https://picsum.photos/id/439/800/600"
+      "https://picsum.photos/id/447/800/600"
     ],
     description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
   },
@@ -227,10 +227,10 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 10,
     title: "Pho Anh Vu",
     category: "Restaurant",
-    imageUrl: "https://picsum.photos/id/449/800/600",
+    imageUrl: "https://picsum.photos/id/447/800/600",
     additionalImages: [
       "https://picsum.photos/id/447/800/600",
-      "https://picsum.photos/id/439/800/600"
+      "https://picsum.photos/id/447/800/600"
     ],
     description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
   },
@@ -238,10 +238,10 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 11,
     title: "The Seoulful",
     category: "Bakery&Cafe",
-    imageUrl: "https://picsum.photos/id/449/800/600",
+    imageUrl: "https://picsum.photos/id/447/800/600",
     additionalImages: [
       "https://picsum.photos/id/447/800/600",
-      "https://picsum.photos/id/439/800/600"
+      "https://picsum.photos/id/447/800/600"
     ],
     description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
   },
@@ -252,7 +252,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     imageUrl: "https://picsum.photos/id/449/800/600",
     additionalImages: [
       "https://picsum.photos/id/447/800/600",
-      "https://picsum.photos/id/439/800/600"
+      "https://picsum.photos/id/447/800/600"
     ],
     description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
   },
@@ -260,10 +260,10 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 13,
     title: "Alma House",
     category: "Residential",
-    imageUrl: "https://picsum.photos/id/449/800/600",
+    imageUrl: "https://picsum.photos/id/447/800/600",
     additionalImages: [
       "https://picsum.photos/id/447/800/600",
-      "https://picsum.photos/id/439/800/600"
+      "https://picsum.photos/id/447/800/600"
     ],
     description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
   },
@@ -271,10 +271,10 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 14,
     title: "Joayo Clinic",
     category: "Clinic",
-    imageUrl: "https://picsum.photos/id/449/800/600",
+    imageUrl: "https://picsum.photos/id/447/800/600",
     additionalImages: [
       "https://picsum.photos/id/447/800/600",
-      "https://picsum.photos/id/439/800/600"
+      "https://picsum.photos/id/447/800/600"
     ],
     description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
   },
@@ -282,10 +282,10 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 15,
     title: "BN Clinic",
     category: "Clinic",
-    imageUrl: "https://picsum.photos/id/449/800/600",
+    imageUrl: "https://picsum.photos/id/447/800/600",
     additionalImages: [
       "https://picsum.photos/id/447/800/600",
-      "https://picsum.photos/id/439/800/600"
+      "https://picsum.photos/id/447/800/600"
     ],
     description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
   },
@@ -293,10 +293,10 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 16,
     title: "Kids Kingdom Early Leaning Center",
     category: "Daycare Facility",
-    imageUrl: "https://picsum.photos/id/449/800/600",
+    imageUrl: "https://picsum.photos/id/447/800/600",
     additionalImages: [
       "https://picsum.photos/id/447/800/600",
-      "https://picsum.photos/id/439/800/600"
+      "https://picsum.photos/id/447/800/600"
     ],
     description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
   },
@@ -304,10 +304,10 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 17,
     title: "BBQ Chicken Metrotown",
     category: "Restaurant",
-    imageUrl: "https://picsum.photos/id/449/800/600",
+    imageUrl: "https://picsum.photos/id/447/800/600",
     additionalImages: [
       "https://picsum.photos/id/447/800/600",
-      "https://picsum.photos/id/439/800/600"
+      "https://picsum.photos/id/447/800/600"
     ],
     description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
   },
@@ -315,10 +315,10 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 18,
     title: "TonTon Sushi",
     category: "Restaurant",
-    imageUrl: "https://picsum.photos/id/449/800/600",
+    imageUrl: "https://picsum.photos/id/447/800/600",
     additionalImages: [
       "https://picsum.photos/id/447/800/600",
-      "https://picsum.photos/id/439/800/600"
+      "https://picsum.photos/id/447/800/600"
     ],
     description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
   },
@@ -326,10 +326,10 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 19,
     title: "M Prive Salon",
     category: "Hair & Nail Salon",
-    imageUrl: "https://picsum.photos/id/449/800/600",
+    imageUrl: "https://picsum.photos/id/447/800/600",
     additionalImages: [
       "https://picsum.photos/id/447/800/600",
-      "https://picsum.photos/id/439/800/600"
+      "https://picsum.photos/id/447/800/600"
     ],
     description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
   },
@@ -337,10 +337,10 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 20,
     title: "Westvan House",
     category: "Residential",
-    imageUrl: "https://picsum.photos/id/449/800/600",
+    imageUrl: "https://picsum.photos/id/447/800/600",
     additionalImages: [
       "https://picsum.photos/id/447/800/600",
-      "https://picsum.photos/id/439/800/600"
+      "https://picsum.photos/id/447/800/600"
     ],
     description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
   },
