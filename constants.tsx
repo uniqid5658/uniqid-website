@@ -132,12 +132,17 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 4,
     title: "Sushi Hil",
     category: "Restaurant",
-    imageUrl: "https://picsum.photos/id/203/800/600",
+    imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushihil/1.jpg",
     additionalImages: [
-      "https://picsum.photos/id/206/800/600",
-      "https://picsum.photos/id/209/800/600"
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushihil/2.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushihil/3.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushihil/4.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushihil/5.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushihil/6.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushihil/7.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/sushihil/8.jpg",
     ],
-    description: "Careful preservation of original brickwork integrated with modern steel reinforcements. A balance of historical character and contemporary structural standards."
+    description: "A space that supports craftsmanship—unobtrusive, controlled, and beautifully restrained."
   },
   {
     id: 5,
