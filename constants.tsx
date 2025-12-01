@@ -89,7 +89,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 2,
     title: "Little Beetle",
     category: "Restaurant",
-    imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/little%20beetle/KakaoTalk_20251201_015717959_03.jpg",
+    imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/little beetle/KakaoTalk_20251201_015717959_03.jpg",
     additionalImages: [
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/little%20beetle/KakaoTalk_20251201_015717959_01.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/little%20beetle/KakaoTalk_20251201_015717959_12.jpg",
