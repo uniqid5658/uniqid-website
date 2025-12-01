@@ -306,15 +306,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/10.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/11.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/12.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/13.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/14.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/15.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/16.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/17.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/18.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/19.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/20.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/21.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/13.jpg"
     ],
     description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
   },
