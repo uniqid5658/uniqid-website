@@ -296,9 +296,9 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/1.jpg",
     additionalImages: [
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/2.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/3.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/4.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/5.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/3.png",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/4.png",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/5.png",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/6.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/7.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mkhouse/8.jpg",
