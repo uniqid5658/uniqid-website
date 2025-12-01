@@ -247,11 +247,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/6.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/7.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/8.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/9.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/10.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/11.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/12.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/13.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/bbqchicken/9.jpg"
     ],
     description: "We realized BBQ’s first Smart Branch by refining both functional efficiency and the brand’s distinctive character into a clear, contemporary spatial expression."
   },
