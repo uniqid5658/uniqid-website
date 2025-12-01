@@ -110,10 +110,21 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 3,
     title: "Cedarwood Therapy",
     category: "Clinic",
-    imageUrl: "https://picsum.photos/id/24/800/600",
+    imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/cedarwood therapy/KakaoTalk_20251201_030735482.jpg",
     additionalImages: [
-      "https://picsum.photos/id/28/800/600",
-      "https://picsum.photos/id/42/800/600"
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/cedarwood therapy/KakaoTalk_20251201_024538649_12.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/cedarwood therapy/KakaoTalk_20251201_024538649_11.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/cedarwood therapy/KakaoTalk_20251201_024538649_01.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/cedarwood therapy/KakaoTalk_20251201_024538649_04.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/cedarwood therapy/KakaoTalk_20251201_024538649_03.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/cedarwood therapy/KakaoTalk_20251201_024538649.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/cedarwood therapy/KakaoTalk_20251201_024538649_08.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/cedarwood therapy/KakaoTalk_20251201_024538649_02.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/cedarwood therapy/KakaoTalk_20251201_024538649_05.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/cedarwood therapy/KakaoTalk_20251201_024538649_06.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/cedarwood therapy/KakaoTalk_20251201_024538649_07.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/cedarwood therapy/KakaoTalk_20251201_024538649_09.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/cedarwood therapy/KakaoTalk_20251201_024538649_10.jpg"
     ],
     description: "Cedarwood Therapy is UNIQID’s wellness project that weaves the brand’s warm sensibility into a balanced, minimal spatial experience."
   },
