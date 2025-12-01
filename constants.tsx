@@ -219,12 +219,20 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 8,
     title: "Osaka Kitchen",
     category: "Restaurant",
-    imageUrl: "https://picsum.photos/id/447/800/600",
+    imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/osakakitchen/1.jpg",
     additionalImages: [
-      "https://picsum.photos/id/447/800/600",
-      "https://picsum.photos/id/447/800/600"
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/osakakitchen/2.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/osakakitchen/3.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/osakakitchen/4.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/osakakitchen/5.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/osakakitchen/6.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/osakakitchen/7.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/osakakitchen/8.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/osakakitchen/9.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/osakakitchen/10.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/osakakitchen/11.jpg"
     ],
-    description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
+    description: "We expressed the rich depth of Osaka cuisine through texture, material, and light."
   },
   {
     id: 9,
