@@ -219,9 +219,9 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 8,
     title: "Osaka Kitchen",
     category: "Restaurant",
-    imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/osakakitchen/1.jpg",
+    imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/osakakitchen/2.jpg",
     additionalImages: [
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/osakakitchen/2.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/osakakitchen/1.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/osakakitchen/3.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/osakakitchen/4.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/osakakitchen/5.jpg",
