@@ -83,7 +83,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/KakaoTalk_20251201_015435098_03.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/KakaoTalk_20251201_015435098_05.jpg"
     ],
-    description: "A warm, light-filled space featuring custom oak millwork and exposed concrete elements. Precision joinery was key to achieving the seamless transition between service and seating areas."
+    description: "Laforet is UNIQID’s bakery project that unifies brand storytelling and spatial detail into one cohesive experience."
   },
   {
     id: 2,
@@ -104,7 +104,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/little beetle/KakaoTalk_20251201_015717959_08.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/little beetle/KakaoTalk_20251201_015717959_10.jpg"
     ],
-    description: "Minimalist medical aesthetics with a focus on calm. High-end plaster finishes, recessed lighting, and acoustic dampening create a serene environment for patients."
+    description: "Little Beetle is UNIQID’s project that unifies brand storytelling and spatial detail into a seamless brunch experience."
   },
   {
     id: 3,
@@ -115,7 +115,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       "https://picsum.photos/id/28/800/600",
       "https://picsum.photos/id/42/800/600"
     ],
-    description: "Luxury residential renovation emphasizing natural stone and walnut textures. Complex logistical management required for high-rise material handling and soundproofing."
+    description: "Cedarwood Therapy is UNIQID’s wellness project that weaves the brand’s warm sensibility into a balanced, minimal spatial experience."
   },
   {
     id: 4,
