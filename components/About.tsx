@@ -36,8 +36,7 @@ export const About: React.FC = () => {
               <img
                 src="https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/components/founder.jpg" 
                 alt="Noah P, Founder of UNIQID, started with a different perspective" 
-                className="w-full h-full object-cover hover:scale-105 transition-transform duration-700 grayscale hover:grayscale-0"
-              />
+                className="w-full h-full object-cover hover:scale-105 transition-transform duration-700 grayscale hover:grayscale-0"></img>
               <div className="absolute bottom-0 left-0 bg-stone-900/80 px-6 py-4">
                 <p className="text-stone-50 text-xs tracking-widest uppercase">Field-Born Experience</p>
               </div>
