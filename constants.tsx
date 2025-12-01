@@ -78,7 +78,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     category: "Bakery&Cafe / Restaurant",
     imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/KakaoTalk_20251201_015435098_04.jpg",
     additionalImages: [
-      "https://picsum.photos/id/425/800/600",
+      "file:///C:/Users/admin/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/uniqid-web/laforet%20austin/0.html",
       "https://picsum.photos/id/429/800/600",
       "https://picsum.photos/id/305/800/600"
     ],
