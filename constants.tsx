@@ -78,9 +78,10 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     category: "Bakery&Cafe / Restaurant",
     imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/KakaoTalk_20251201_015435098_04.jpg",
     additionalImages: [
-      "file:///C:/Users/admin/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/uniqid-web/laforet%20austin/0.html",
-      "https://picsum.photos/id/429/800/600",
-      "https://picsum.photos/id/305/800/600"
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/KakaoTalk_20251201_015435098_02.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/KakaoTalk_20251201_015435098.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/KakaoTalk_20251201_015435098_03.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/KakaoTalk_20251201_015435098_05.jpg"
     ],
     description: "A warm, light-filled space featuring custom oak millwork and exposed concrete elements. Precision joinery was key to achieving the seamless transition between service and seating areas."
   },
@@ -88,10 +89,20 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     id: 2,
     title: "Little Beetle",
     category: "Restaurant",
-    imageUrl: "https://picsum.photos/id/376/800/600",
+    imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/little%20beetle/KakaoTalk_20251201_015717959_03.jpg",
     additionalImages: [
-      "https://picsum.photos/id/399/800/600",
-      "https://picsum.photos/id/401/800/600"
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/little%20beetle/KakaoTalk_20251201_015717959_01.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/little%20beetle/KakaoTalk_20251201_015717959_12.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/little%20beetle/KakaoTalk_20251201_015717959.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/little%20beetle/KakaoTalk_20251201_015717959_11.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/little%20beetle/KakaoTalk_20251201_015717959_09.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/little%20beetle/KakaoTalk_20251201_015717959_06.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/little%20beetle/KakaoTalk_20251201_015717959_02.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/little%20beetle/KakaoTalk_20251201_015717959_05.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/little%20beetle/KakaoTalk_20251201_015717959_04.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/little%20beetle/KakaoTalk_20251201_015717959_07.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/little%20beetle/KakaoTalk_20251201_015717959_08.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/little%20beetle/KakaoTalk_20251201_015717959_10.jpg"
     ],
     description: "Minimalist medical aesthetics with a focus on calm. High-end plaster finishes, recessed lighting, and acoustic dampening create a serene environment for patients."
   },
