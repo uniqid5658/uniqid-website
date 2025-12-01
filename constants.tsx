@@ -268,6 +268,25 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     ],
     description: "A celebrated pho brand from Toronto, reinterpreted through a clean and contemporary spatial language for its debut Vancouver flagship."
   },
+    {
+    id: 19,
+    title: "M Prive Salon",
+    category: "Hair & Nail Salon",
+    imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mprive/1.jpg",
+    additionalImages: [
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mprive/2.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mprive/3.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mprive/4.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mprive/5.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mprive/6.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mprive/7.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mprive/8.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mprive/9.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mprive/10.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/mprive/11.jpg",
+    ],
+    description: "A space defined by calm luxury and a gentle, flowing rhythm—an experience uniquely M Prive."
+  },
   {
     id: 11,
     title: "The Seoulful",
@@ -355,17 +374,6 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       "https://picsum.photos/id/447/800/600"
     ],
     description: "Intimate hospitality setting with a focus on the cypress counter. Exacting standards for plumbing and ventilation were executed behind clean, minimal surfaces."
-  },
-  {
-    id: 19,
-    title: "M Prive Salon",
-    category: "Hair & Nail Salon",
-    imageUrl: "https://picsum.photos/id/447/800/600",
-    additionalImages: [
-      "https://picsum.photos/id/447/800/600",
-      "https://picsum.photos/id/447/800/600"
-    ],
-    description: "A space defined by calm luxury and a gentle, flowing rhythm—an experience uniquely M Prive."
   },
   {
     id: 20,
