@@ -88,7 +88,6 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/11.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/13.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/15.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/16.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/18.jpg",
     ],
     description: "Laforet is UNIQID’s bakery project that unifies brand storytelling and spatial detail into one cohesive experience."
