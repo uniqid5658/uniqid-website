@@ -79,9 +79,17 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/KakaoTalk_20251201_015435098_04.jpg",
     additionalImages: [
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/KakaoTalk_20251201_015435098_02.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/17.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/12.jpg",
+        "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/14.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/KakaoTalk_20251201_015435098.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/KakaoTalk_20251201_015435098_03.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/KakaoTalk_20251201_015435098_05.jpg"
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/KakaoTalk_20251201_015435098_05.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/11.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/13.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/15.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/16.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/laforet austin/18.jpg",
     ],
     description: "Laforet is UNIQID’s bakery project that unifies brand storytelling and spatial detail into one cohesive experience."
   },
