@@ -30,8 +30,7 @@ export const Footer: React.FC = () => {
           <div className="space-y-4">
              <h4 className="text-stone-50 text-sm uppercase tracking-widest">Follow</h4>
              <div className="flex space-x-4 text-sm">
-                <a href="#" className="hover:text-stone-50 transition-colors">Instagram</a>
-                <a href="#" className="hover:text-stone-50 transition-colors">LinkedIn</a>
+                <a href="https://www.instagram.com/uniqidgeneralcontractors/" target="_blank" rel="noopener noreferrer" className="hover:text-stone-50 transition-colors">Instagram</a>
              </div>
           </div>
         </div>
