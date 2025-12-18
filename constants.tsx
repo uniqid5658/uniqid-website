@@ -324,9 +324,9 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/1.jpg",
     additionalImages: [
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/2.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/3.png",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/4.png",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/5.png",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/3.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/4.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/5.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/6.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/7.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/8.jpg",
