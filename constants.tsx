@@ -317,4 +317,23 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     ],
     description: "A home where the homeowner’s unique sensibility, memories, and personal rhythm are carefully woven into every tone and texture—creating a space that feels deeply intimate, lived-in, and unmistakably theirs."
   },
+    {
+    id: 13,
+    title: "Street Hawker",
+    category: "Restaurant",
+    imageUrl: "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/1.jpg",
+    additionalImages: [
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/2.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/3.png",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/4.png",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/5.png",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/6.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/7.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/8.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/9.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/10.jpg",
+      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/11.jpg",
+    ],
+    description: "Street Hawker: Street-inspired, free-spirited energy — burgers & chicken done bold."
+  },
 ];
