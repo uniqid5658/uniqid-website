@@ -330,9 +330,6 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/6.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/7.jpg",
       "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/8.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/9.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/10.jpg",
-      "https://raw.githubusercontent.com/uniqid5658/uniqid-website/main/image/streethawker/11.jpg",
     ],
     description: "Street Hawker: Street-inspired, free-spirited energy — burgers & chicken done bold."
   },
